@@ -1,0 +1,4 @@
+{
+  "description" : "Error creating book",
+  "reasons" : [ "ISBN value already exists" ]
+}

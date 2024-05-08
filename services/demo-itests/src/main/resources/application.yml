@@ -1,0 +1,26 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: 'demo-itests'
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+  sql:
+    init:
+      platform: postgres
+  datasource:
+    url: 'jdbc:postgresql://localhost:5432/demo-itests'
+    username: 'postgres'
+    password: 'postgres'
+
+api:
+  integration:
+    fizzbuzz:
+      endpoint:
+        uri: http://localhost:8080
+        service: '/fizzbuzz'

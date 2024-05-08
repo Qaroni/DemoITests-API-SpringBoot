@@ -1,0 +1,14 @@
+[
+  {
+    "id" : 1,
+    "isbn" : "111111111",
+    "title" : "Book Test 1",
+    "authors" : [
+      {
+        "id" : 1,
+        "documentId" : "111111111",
+        "fullName" : "Author Test 1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "description" : "Error creating author",
+  "reasons" : [ "Document ID already exists" ]
+}

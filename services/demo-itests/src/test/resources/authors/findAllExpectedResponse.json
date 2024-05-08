@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "documentId": "111111111",
+    "fullName":"Author Test 1",
+    "books": []
+  },
+  {
+    "id": 2,
+    "documentId": "222222222",
+    "fullName":"Author Test 2",
+    "books": []
+  },
+  {
+    "id": 3,
+    "documentId": "333333333",
+    "fullName": "Author Test 3",
+    "books": []
+  },
+  {
+    "id": 4,
+    "documentId": "444444444",
+    "fullName":"Author Test 4",
+    "books": []
+  }
+]

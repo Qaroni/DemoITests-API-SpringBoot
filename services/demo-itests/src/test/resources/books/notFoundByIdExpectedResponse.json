@@ -1,0 +1,4 @@
+{
+  "description" : "Error retrieving book",
+  "reasons" : [ "Book not found" ]
+}
