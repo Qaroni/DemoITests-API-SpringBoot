@@ -1,4 +1,4 @@
-package com.qaroni.demoitests.support;
+package com.qaroni.demoitests.support.json;
 import org.junit.jupiter.api.extension.ExtendWith;
 
 import java.lang.annotation.Documented;

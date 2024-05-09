@@ -1,4 +1,4 @@
-package com.qaroni.demoitests.support;
+package com.qaroni.demoitests.support.json;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;

@@ -1,7 +1,7 @@
 package com.qaroni.demoitests.infrastructure.gateway;
 
-import com.qaroni.demoitests.support.JsonAssertion;
-import com.qaroni.demoitests.support.JsonAssertions;
+import com.qaroni.demoitests.support.json.JsonAssertion;
+import com.qaroni.demoitests.support.json.JsonAssertions;
 import org.junit.jupiter.api.*;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.DynamicPropertyRegistry;

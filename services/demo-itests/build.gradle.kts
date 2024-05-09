@@ -27,7 +27,7 @@ dependencies {
 	testImplementation("org.postgresql:postgresql")
 	testImplementation("org.testcontainers:junit-jupiter")
 	testImplementation("org.testcontainers:postgresql")
-	testImplementation("org.wiremock:wiremock:3.5.4")
+	testImplementation("org.springframework.cloud:spring-cloud-contract-wiremock:4.1.2")
 
 	compileOnly("org.projectlombok:lombok")
 	annotationProcessor("org.projectlombok:lombok")
